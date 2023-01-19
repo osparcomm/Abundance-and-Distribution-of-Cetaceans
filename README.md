@@ -9,3 +9,4 @@ Data and outputs for Common Indicator "Abundance and Distribution of Cetaceans (
 - [ ] dsm: RData files with the input/output of Density Surface Models
 - [ ] output: Maps and figures as presented in assessment
 
+Contact: mauthier(a)univ-lr.fr, cc:data(a)ospar.org, subject: QSR2023 M4Data
